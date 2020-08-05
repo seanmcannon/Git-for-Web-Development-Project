@@ -1,4 +1,4 @@
- Link to finished codepen: https://codepen.io/SeanCannon/pen/mdPddXm?editors=1100
+ Link to finished codepen: https://codepen.io/SeanCannon/pen/mdPddXm
    
    
     1. What is Semantic HTML? correct use of html to reinforce the meaning of the content. so search engines and screen readers can know the intent of hte page.
@@ -11,7 +11,7 @@
 
     5. Name two tags that have required attributes img and a
 
-    6. What do we put in the head of our HTML document? metadate
+    6. What do we put in the head of our HTML document? metadata
 
     7. What is an id? unique name used once for a specific element
 
